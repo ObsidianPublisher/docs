@@ -64,3 +64,5 @@ In this file, I add a list of example for the file path settings, edited by your
 > - Cited file: `docs/XX/YY/my_file.md`
 > - File to convert: `docs/XX/ZZ/new_file.md`
 > - Path created: `../YY/my_file.md`
+
+To set a file as your homepage, use `path: index`

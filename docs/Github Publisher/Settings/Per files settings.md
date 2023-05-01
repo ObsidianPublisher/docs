@@ -57,6 +57,8 @@ Some settings can be overridden based on your frontmatter key (of the file send)
   - `remove` : To remove some part specific to this file.
 7. `path` : override all path settings and create a path from the root. Use `/` or let it empty to set it to the root of the repository.
 
+To set a file as your homepages, use `path: index`
+
 ## Quick references
 
 ### Using yaml object
