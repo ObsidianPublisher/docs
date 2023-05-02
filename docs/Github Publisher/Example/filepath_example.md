@@ -65,4 +65,4 @@ In this file, I add a list of example for the file path settings, edited by your
 > - File to convert: `docs/XX/ZZ/new_file.md`
 > - Path created: `../YY/my_file.md`
 
-To set a file as your homepage, use `path: index`
+To set a file as your homepage, set `title: index` in its frontmatter. Don't forget to turn on frontmatter title in [Upload configuration](Upload.md).
