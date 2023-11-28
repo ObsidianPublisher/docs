@@ -4,7 +4,7 @@ title: Installation
 
 Mkdocs Obsidian is a combination of an Obsidian plugin and a Material mkdocs template that allows you to create a personal wiki site based on your Obsidian Vault.
 
-If you are familiar with GitHub Pages, you can easily use the [Mkdocs Material Template](https://www.squidfunk.github.io/mkdocs-material/) by directly templating it using the [GitHub template](https://github.com/ObsidianPublisher/template-gh-pages/generate).
+If you are familiar with GitHub Pages, you can easily use the [Mkdocs Material Template](https://squidfunk.github.io/mkdocs-material/) by directly templating it using the [GitHub template](https://github.com/ObsidianPublisher/template-gh-pages/generate).
 
 Alternatively, if you prefer to use Netlify, you can also template this [Netlify repository](https://github.com/ObsidianPublisher/template-netlify-vercel/generate) and use it to deploy your personal wiki site.
 
